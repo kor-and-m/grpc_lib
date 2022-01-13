@@ -19,7 +19,7 @@
 
 -module(grpc_lib_compile).
 
--export([file/2]).
+-export([file/2, write_client/1]).
 
 %%% ============================================================================
 %%% Exported functions
